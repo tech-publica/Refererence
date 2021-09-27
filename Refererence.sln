@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refererence", "Refererence\Refererence.csproj", "{3F26637A-DF1E-4374-82B3-CCCEB65561DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO-ext", "IO-ext\IO-ext.csproj", "{9D4713BF-BF80-4752-BEFE-35243F1CEA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseExamples", "DataBaseExamples\DataBaseExamples.csproj", "{27ADA1FF-2C32-49F4-BA74-6C1A4A29DA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F26637A-DF1E-4374-82B3-CCCEB65561DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F26637A-DF1E-4374-82B3-CCCEB65561DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F26637A-DF1E-4374-82B3-CCCEB65561DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F26637A-DF1E-4374-82B3-CCCEB65561DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4713BF-BF80-4752-BEFE-35243F1CEA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4713BF-BF80-4752-BEFE-35243F1CEA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4713BF-BF80-4752-BEFE-35243F1CEA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4713BF-BF80-4752-BEFE-35243F1CEA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ADA1FF-2C32-49F4-BA74-6C1A4A29DA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ADA1FF-2C32-49F4-BA74-6C1A4A29DA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ADA1FF-2C32-49F4-BA74-6C1A4A29DA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ADA1FF-2C32-49F4-BA74-6C1A4A29DA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
